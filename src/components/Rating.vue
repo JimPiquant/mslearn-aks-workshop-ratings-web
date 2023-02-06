@@ -79,7 +79,7 @@ export default {
         }
         
         if (name === 'Cristiano Ronaldo' && event > 3.5) {
-          this.$Notify({ title: `Seriously?`, message: `While you voted, Ronaldo just took another dive...`, type: 'warning', duration: 10000 })
+          this.$Notify({ title: `Seriously?`, message: `While you voted, Ronaldo just took another f.. dive...`, type: 'warning', duration: 10000 })
         }
       },
       submitRatings() {
